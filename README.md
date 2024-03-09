@@ -43,11 +43,10 @@ This desktop program is designed to illustrate the relative importance of magnit
 - **Progress Indication**: Lengthy ifft operations are accompanied by a progress bar to indicate the process.
 - **Cancellation**: If user initiates new mixing settings while a previous operation is ongoing, the program cancels the prior operation and starts the new one.
 
-![Screenshot 1](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image.png)
-![Screenshot 2](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image_2.png)
-![Screenshot 3](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image_3.png)
-![Screenshot 4](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image_4.png)
-![Screenshot 5](interactive_sampling_studio/Sampling_Theory_Studio/screen_shots/image_5.png)
+![Screenshot 1](/Task%204/Screenshots/1.png)
+![Screenshot 1](/Task%204/Screenshots/2.png)
+![Screenshot 1](/Task%204/Screenshots/3.png)
+![Screenshot 1](/Task%204/Screenshots/4.png)
 
 ## Contributors <a name = "Contributors"></a>
 
