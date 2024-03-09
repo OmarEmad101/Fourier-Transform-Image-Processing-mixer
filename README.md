@@ -90,6 +90,7 @@ This desktop program is designed to illustrate the relative importance of magnit
     </td>
   </tr>
 </table>
+
 ## Acknowledgments
 
 **This project was supervised by Dr. Tamer Basha & Eng. Abdallah Darwish, who provided invaluable guidance and expertise throughout its development as a part of the Digital Signal Processing course at Cairo University Faculty of Engineering.**
